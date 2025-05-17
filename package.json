@@ -1,0 +1,19 @@
+{
+  "name": "nice-npm",
+  "version": "1.0.0",
+  "description": "npm sounds cool tbh ngl",
+  "main": "npmPractise.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bibu",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^12.0.0",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  }
+}
